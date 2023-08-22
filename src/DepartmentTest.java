@@ -10,5 +10,9 @@ public class DepartmentTest {
         System.out.println("---------- Department insert ---------");
         Department department = new Department(null, "Foods");
         departmentDao.insert(department);
+
+        System.out.println("---------- Department update ---------");
+        department = 
+
     }
 }
