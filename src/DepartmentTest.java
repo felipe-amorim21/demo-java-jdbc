@@ -12,7 +12,7 @@ public class DepartmentTest {
         departmentDao.insert(department);
 
         System.out.println("---------- Department update ---------");
-        department = 
+        department =
 
     }
 }
